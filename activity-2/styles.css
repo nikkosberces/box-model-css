@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.div-1 {
+  background-color: pink;
+  padding:32px;
+  border: 3px solid blue;
+  margin: 10px 100px;
+  text-align: left;
+}
+
+.div-2 {
+  background-color: lightblue;
+  border: 3px solid rgb(119, 13, 119);
+  margin: 10px 80px ;
+}
+
+.div-3 {
+  background-color:rgb(250, 228, 193);
+  padding: 32px;
+  border: 3px solid darkred;
+  margin: 48px 32px auto 400px ;
+  text-align: start;
+}

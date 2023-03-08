@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: rgb(207, 206, 206);
+ 
+}
+
+header {
+  background-color: white;
+  margin: 20px 100px;
+  padding: 1px;
+}
+
+h1 {
+  font-weight: 16px;
+  background-color: rgb(226, 253, 247);
+  padding: 8px;
+  margin: 8px;
+}
+
+p {
+  font-weight: bold;
+  background-color: rgb(226, 253, 247);
+  padding: 8px;
+  margin: 8px;
+}
+
+.div-2 {
+  font-weight: bold;
+  background-color: rgb(226, 253, 247);
+  padding: 8px;
+  margin: 8px;
+  text-align: center;
+}
+
+.button {
+  background-color: white;
+  padding-right: 24px;
+  padding-left: 24px;
+  border:white;
+}
